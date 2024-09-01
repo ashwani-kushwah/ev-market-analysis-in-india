@@ -3,11 +3,13 @@
 
 ## Table of Contents
 - [Problem Statement](#problem-statement)
-- [Data Cleaning & Transformation](#data-cleaning-&-transformation)
-- [Key Insights & Recommendation](#key-insights-&-recommendation)
-- [Links and References](#links-refrences)
+- [Data Cleaning & Transformation](#data-cleaning--transformation)
+- [Key Insights & Recommendations](#key-insights--recommendations)
+- [Links and References](#links-and-references-for-secondary-research)
 - [Contributing](#contributing)
 
+<br>
+  
 ### Problem Statement:
 
 - AtliQ Motors is an automotive giant from the USA specializing in electric vehicles (EV).
@@ -15,11 +17,15 @@
 - As a part of their expansion plans, they wanted to launch their bestselling models in India where their market share is less than 2%.
 - As a data analyst, Peter Pandey we need to provide detailed Market Research and Competitor Analysis of existing EV market in India.
 
+<br>
+
 ### Data Cleaning & Transformation:
 
 - Data provided by ***Codebasics***
 - Changed date format for better readability
 - Created new measures for - CAGR, Penetration rate, Projected sales, Revenue
+
+<br>
 
 ### Key Insights & Recommendations:
 
@@ -31,6 +37,8 @@
 - Gujarat is the ideal state for AtliQ Motors to establish its manufacturing unit in India.
 - Goa, Karnataka, Delhi, Maharashtra, and Kerala are prime states for launching new vehicles due to their high penetration rates.
 
+<br>
+
 ### Links and References for secondary research:
 
 1. Challenge - https://codebasics.io/challenge/codebasics-resume-project-challenge
@@ -40,6 +48,7 @@
 5. https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2003003
 6. https://economictimes.indiatimes.com/industry/renewables/how-gujarat-becoming-the-hub-for-ev-manufacturing-in-india/articleshow/107690272.cms?from=mdr
 
+<br>
 
 I'd like to express my gratitude to Hemanand Vadivel, Dhaval Patel, and Bhavin Patel sir for providing us with such a great chance to learn and showcase our abilities through these projects. 
 
